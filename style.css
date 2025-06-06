@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Title1;
+    src: url(/fonts/Retro\ Groovy\ -\ Demo.ttf);
+}
+
+h1 {
+    font-family: title1;
+}
