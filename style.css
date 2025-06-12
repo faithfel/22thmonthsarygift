@@ -1,8 +1,19 @@
 @font-face {
     font-family: Title1;
-    src: url(/fonts/Retro\ Groovy\ -\ Demo.ttf);
+    src: url(/fonts/BungeeShade-Regular.ttf);
 }
 
 h1 {
     font-family: title1;
+}
+
+.pic {
+    max-height: 500px;
+    max-width: 500px;
+
+}
+
+.letter {
+    margin: 30px;
+
 }
