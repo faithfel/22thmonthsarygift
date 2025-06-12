@@ -3,8 +3,18 @@
     src: url(/fonts/BungeeShade-Regular.ttf);
 }
 
+body {
+    background-image: url(/photos/bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 h1 {
     font-family: title1;
+    color: wheat;
 }
 
 .pic {
@@ -15,5 +25,5 @@ h1 {
 
 .letter {
     margin: 30px;
-
+    color: wheat;
 }
