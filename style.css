@@ -20,6 +20,12 @@ h1 {
 .pic {
     max-height: 500px;
     max-width: 500px;
+    transition: 0.5s;
+
+}
+.pic:hover{
+    transform: scale(1.4);
+	z-index: 3;
 
 }
 
@@ -27,3 +33,4 @@ h1 {
     margin: 30px;
     color: wheat;
 }
+
