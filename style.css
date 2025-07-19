@@ -4,8 +4,7 @@
 }
 
 body {
-    background-image: url(https://i.pinimg.com/736x/cc/94/4c/cc944c5e0a5bcf74937a4209897d2c89.jpg);
-    height: 100vh;
+    background-image: url(/images/bg.jpg);
     width: 100%;
     background-size: cover;
     background-position: center center;
