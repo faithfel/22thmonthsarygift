@@ -1,6 +1,6 @@
 @font-face {
     font-family: Title1;
-    src: url( ../fonts/BungeeShade-Regular.ttf);
+    src: url(/fonts/BungeeShade-Regular.ttf);
 }
 
 body {
