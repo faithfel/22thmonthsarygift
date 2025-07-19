@@ -14,6 +14,8 @@ body {
 h1 {
     font-family: title1;
     color: wheat;
+    font-size: 50px;
+    margin: 1px;
 }
 
 .pic {
@@ -23,7 +25,7 @@ h1 {
 
 }
 .pic:hover{
-    transform: scale(1.4);
+    transform: scale(1.27);
 	z-index: 3;
 
 }
@@ -31,5 +33,7 @@ h1 {
 .letter {
     margin: 30px;
     color: wheat;
+    margin-right: 25%;
+    margin-left: 25%;
 }
 
