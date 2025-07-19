@@ -1,10 +1,10 @@
 @font-face {
     font-family: Title1;
-    src: url(/fonts/BungeeShade-Regular.ttf);
+    src: url(fonts/BungeeShade-Regular.ttf);
 }
 
 body {
-    background-image: url( ../images/bg.jpg);
+    background-image: url(images/bg.jpg);
     width: 100%;
     background-size: cover;
     background-position: center center;
