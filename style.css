@@ -15,7 +15,7 @@ h1 {
     font-family: title1;
     color: wheat;
     font-size: 42px;
-    margin: 1px;
+    margin: 10px;
 }
 
 .pic {
@@ -32,9 +32,16 @@ h1 {
 
 .letter {
     margin: 30px;
-    color: wheat;
-    margin-right: 25%;
-    margin-left: 25%;
+    color: #4D0D0A;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-image: url(./images/paper.jpg);
+    background-size: 100%;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 70px;
+    padding-bottom: 60px;
 }
 
 .headerimgs {
