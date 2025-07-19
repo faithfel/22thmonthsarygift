@@ -37,3 +37,6 @@ h1 {
     margin-left: 25%;
 }
 
+.headerimgs {
+    display:list-item;
+}
