@@ -52,4 +52,9 @@ h1 {
     .pic {
         max-height: 200px;
     }
+
+    .letter {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
