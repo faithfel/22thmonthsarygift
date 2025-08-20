@@ -47,3 +47,9 @@ h1 {
 .headerimgs {
     display:list-item;
 }
+
+@media (max-width: 921px) {
+    .pic {
+        max-height: 200px;
+    }
+}
